@@ -1,0 +1,153 @@
+{
+  "workspaces": {
+    "Swift": {
+      "main": {
+        "id": "3bb12d470fcd0291",
+        "type": "split",
+        "children": [
+          {
+            "id": "5ce4ad0b34e82e78",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40ca0fcce3fda973",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "40 - Obsidian/Homepages/00. Homepage.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": true
+                  }
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "64e5df844da43397",
+        "type": "split",
+        "children": [
+          {
+            "id": "404b714244a12346",
+            "type": "tabs",
+            "dimension": 73.21428571428571,
+            "children": [
+              {
+                "id": "7408259d9b92b5f4",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "107f3f413530f687",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "a0c9c63d37ff7d1a",
+            "type": "tabs",
+            "dimension": 26.785714285714285,
+            "children": [
+              {
+                "id": "c1990ee89ee6105b",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "40 - Obsidian/Homepages/00. Dashboard.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 207
+      },
+      "right": {
+        "id": "61191f8ea8fb7606",
+        "type": "split",
+        "children": [
+          {
+            "id": "4294f9e389e0008a",
+            "type": "tabs",
+            "dimension": 43.92857142857143,
+            "children": [
+              {
+                "id": "6ad73b7dcf2a71b6",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "40 - Obsidian/Homepages/00. Dashboard.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "46b54befe5ed140b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "0af7f88612fac8c5",
+            "type": "tabs",
+            "dimension": 56.07142857142857,
+            "children": [
+              {
+                "id": "45c5729b2bf034f4",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 360
+      },
+      "active": "7408259d9b92b5f4"
+    }
+  },
+  "active": "Swift"
+}

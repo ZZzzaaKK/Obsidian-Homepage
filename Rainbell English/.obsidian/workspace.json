@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "3bb12d470fcd0291",
+    "type": "split",
+    "children": [
+      {
+        "id": "89bbc2d5f7cee321",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a422271f8b23b32",
+            "type": "leaf",
+            "state": {
+              "type": "calendar_view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64e5df844da43397",
+    "type": "split",
+    "children": [
+      {
+        "id": "404b714244a12346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7408259d9b92b5f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "107f3f413530f687",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207
+  },
+  "right": {
+    "id": "61191f8ea8fb7606",
+    "type": "split",
+    "children": [
+      {
+        "id": "4294f9e389e0008a",
+        "type": "tabs",
+        "dimension": 43.92857142857143,
+        "children": [
+          {
+            "id": "6ad73b7dcf2a71b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46b54befe5ed140b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0af7f88612fac8c5",
+        "type": "tabs",
+        "dimension": 56.07142857142857,
+        "children": [
+          {
+            "id": "45c5729b2bf034f4",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 360
+  },
+  "active": "4a422271f8b23b32",
+  "lastOpenFiles": [
+    "00 - DailyNotes/DailyNote/13.11.2022.md",
+    "40 - Obsidian/Homepages/00. Homepage.md",
+    "30 - Reading/00. Library.md",
+    "00 - DailyNotes/MonthlyNote/Nov. 2022.md",
+    "20 - Work & Study/Study/Paper One.md",
+    "20 - Work & Study/Projects/Git.md",
+    "20 - Work & Study/Study/CIT594/594-W01.md",
+    "40 - Obsidian/Homepages/00. Dashboard.md",
+    "20 - Work & Study/Codes/Dataviewjs References.md",
+    "40 - Obsidian/React components/music and birthday countdown 2.md"
+  ]
+}
